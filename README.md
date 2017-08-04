@@ -25,8 +25,8 @@ simplicity followed the row and col to access.The program is built using maven b
 		
 		 
 		 To run the program we go to git and follow the following steps
- 		 1)git clone  https://github.com/mail2yonz/walmartassesemet.git
+ 		 1)git clone  https://github.com/mail2yonz/WalmartAssessment.git
 		 2)mvn clean install 
 		 
-============================================================================================================================================== # walmartjavaassessment
+============================================================================================================================================== 
 
